@@ -5,95 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44fefc7-6390-45b8-964e-2b851d33bcf5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDrugs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/controller/CategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/dto/CategoryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/dto/ProductDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/dto/UserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/error/ApiError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/error/ErrorHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/error/ExceptionHandlerAdvice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/mapper/CategoryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/mapper/ProductMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/model/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/repository/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/EntryPointUnauthorizedHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/JWTAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/JWTAuthorizationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/SecurityConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/ICategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/IProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/impl/CategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/br/edu/utfpr/pb/pw44s/server/service/impl/ProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/controller/CategoryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/CategoryDTO$CategoryDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/CategoryDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/ProductDTO$ProductDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/ProductDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/UserDTO$UserDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/dto/UserDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/error/ApiError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/error/ErrorHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/error/ExceptionHandlerAdvice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/CategoryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/CategoryMapperImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/ProductMapperImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/mapper/UserMapperImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/Category$CategoryBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/Product$ProductBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/repository/CategoryRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/repository/ProductRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/EntryPointUnauthorizedHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/JWTAuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/JWTAuthorizationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/SecurityConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse$AuthenticationResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO$AuthorityResponseDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO$UserResponseDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/AuthService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/ICategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/IProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/impl/CategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyDrugs/br/edu/utfpr/pb/pw44s/server/service/impl/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/br/edu/utfpr/pb/pw44s/server/mapper/CategoryMapperImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/br/edu/utfpr/pb/pw44s/server/mapper/ProductMapperImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/br/edu/utfpr/pb/pw44s/server/mapper/UserMapperImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myDrugs-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myDrugs-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +17,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3CxeuFfHA3XD8MvhtnE4YyC3R9p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -120,11 +34,17 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.Application.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -144,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777331869665</updated>
       <workItem from="1777331871499" duration="108000" />
+      <workItem from="1777413419623" duration="1375000" />
     </task>
     <servers />
   </component>
