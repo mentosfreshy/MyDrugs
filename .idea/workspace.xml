@@ -7,7 +7,6 @@
     <list default="true" id="f44fefc7-6390-45b8-964e-2b851d33bcf5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777331869665</updated>
       <workItem from="1777331871499" duration="108000" />
-      <workItem from="1777413419623" duration="1375000" />
+      <workItem from="1777413419623" duration="2084000" />
     </task>
     <servers />
   </component>
