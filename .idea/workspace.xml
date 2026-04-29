@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f44fefc7-6390-45b8-964e-2b851d33bcf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/dto/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/dto/OrderItemDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/model/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/service/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/utfpr/pb/pw44s/server/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f44fefc7-6390-45b8-964e-2b851d33bcf5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,14 +52,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f44fefc7-6390-45b8-964e-2b851d33bcf5" name="Changes" comment="" />
