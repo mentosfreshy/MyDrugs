@@ -27,7 +27,7 @@ public class Product {
     private String description;
 
     @NotNull
-    private BigDecimal price;
+    private Double price;
 
     //@NotNull
     private String image;
