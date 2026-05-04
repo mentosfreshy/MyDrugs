@@ -9,11 +9,19 @@ INSERT INTO tb_category (name) VALUES ('Calmantes');
 
 -- Inserção de Produtos (tb_product)
 -- A coluna category_id faz referência ao ID gerado na inserção das categorias acima
+
 INSERT INTO tb_products (name, description, price, category_id, image) VALUES ('Prensadao do jaca', 'Esse bate forte 1g', 3.50, 3, 'blabla.com');
 INSERT INTO tb_products (name, description, price, category_id, image) VALUES ('lsd', 'Pra se sentir nas nuvens 1mg', 22.90, 1, 'blabla.com');
 INSERT INTO tb_products (name, description, price, category_id, image) VALUES ('Cocaína', 'Trava noia 1g', 8.00, 2, 'blabla.com');
 INSERT INTO tb_products (name, description, price, category_id, image) VALUES ('Psylosibensis', 'Destruicao do ego 1g', 15.50, 1, 'blabla.com');
 INSERT INTO tb_products (name, description, price, category_id, image) VALUES ('MDMA', 'Balinha da abacaxi 1g', 23.00, 2, 'blabla.com');
+
+INSERT INTO tb_product (name, description, price, category_id) VALUES ('Prensadao do jaca', 'Esse bate forte 1g', 3.50, 3);
+INSERT INTO tb_product (name, description, price, category_id) VALUES ('lsd', 'Pra se sentir nas nuvens 1mg', 22.90, 1);
+INSERT INTO tb_product (name, description, price, category_id) VALUES ('Cocaína', 'Trava noia 1g', 8.00, 2);
+INSERT INTO tb_product (name, description, price, category_id) VALUES ('Psylosibensis', 'Destruicao do ego 1g', 15.50, 1);
+INSERT INTO tb_product (name, description, price, category_id) VALUES ('MDMA', 'Balinha da abacaxi 1g', 23.00, 2);
+
 
 -- Inserção de Endereços (tb_address)
 -- O user_id '2' vincula este endereço ao usuário 'João da Silva'
